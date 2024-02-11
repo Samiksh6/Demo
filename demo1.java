@@ -11,9 +11,9 @@ public class Even_odd {
 				num=sc.nextInt();
 				
 				if(num%2==0)
-					System.out.print("Number is Even");
+					System.out.print("Number is Even..");
 				else
-					System.out.print("Number is Odd");
+					System.out.print("Number is Odd..");
 				sc.close();
 			}
 
